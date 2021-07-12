@@ -77,34 +77,6 @@ class Calculator:
 
         return self.clean_combos(combos)
 
-    '''
-    def find_combs(self, dice):
-        """
-        :param dice: number of dice to roll
-        :return: list of combinations (without duplicates) that could be made with the input dice
-        """
-        def combo_accum(current_dice, die_index, combo_list):
-            """
-            :param current_dice: the current number of dice being rolled
-            :param die_index: an index to locate a "roll" in self.die
-            :param combo_list: accumulator list to hold all combos
-            :return: list of combinations (with duplicates) that could be made with the input dice
-            """
-            if current_dice > dice:
-                return combo_list
-
-            if self.die[die_index] > 6:
-                combo_accum(current_dice + 1, 0, combo_list)
-
-            else:
-                
-
-
-        combos = combo_accum(1, 0, [])
-
-        return self.clean_combos(combos)
-    '''
-
     def find_perms_3(self):
         """
         :return: list of combinations that could be made with the 3 dice
