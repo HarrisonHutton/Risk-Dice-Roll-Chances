@@ -1,1 +1,49 @@
-{"attacker_3_defender_2": {"battles": {"{'attacker': -2, 'defender': 0}": 428, "{'attacker': -1, 'defender': -1}": 474, "{'attacker': 0, 'defender': -2}": 618}, "total": 1520}, "attacker_3_defender_3": {"battles": {"{'attacker': -3, 'defender': 0}": 573, "{'attacker': -1, 'defender': -2}": 324, "{'attacker': -2, 'defender': -1}": 397, "{'attacker': 0, 'defender': -3}": 227}, "total": 1521}, "attacker_2_defender_2": {"battles": {"{'attacker': 0, 'defender': -2}": 341, "{'attacker': -1, 'defender': -1}": 496, "{'attacker': -2, 'defender': 0}": 688}, "total": 1525}, "attacker_3_defender_1": {"battles": {"{'attacker': 0, 'defender': -1}": 1047, "{'attacker': -1, 'defender': 0}": 496}, "total": 1543}, "attacker_2_defender_1": {"battles": {"{'attacker': 0, 'defender': -1}": 905, "{'attacker': -1, 'defender': 0}": 624}, "total": 1529}, "attacker_2_defender_3": {"battles": {"{'attacker': -2, 'defender': 0}": 968, "{'attacker': 0, 'defender': -2}": 192, "{'attacker': -1, 'defender': -1}": 371}, "total": 1531}}
+{
+    "attacker_3_defender_2": {
+        "battles": {
+            "{'attacker': -2, 'defender': 0}": 428,
+            "{'attacker': -1, 'defender': -1}": 474,
+            "{'attacker': 0, 'defender': -2}": 618
+        },
+        "total": 1520
+    },
+    "attacker_3_defender_3": {
+        "battles": {
+            "{'attacker': -3, 'defender': 0}": 573,
+            "{'attacker': -1, 'defender': -2}": 324,
+            "{'attacker': -2, 'defender': -1}": 397,
+            "{'attacker': 0, 'defender': -3}": 227
+        },
+        "total": 1521
+    },
+    "attacker_2_defender_2": {
+        "battles": {
+            "{'attacker': 0, 'defender': -2}": 341,
+            "{'attacker': -1, 'defender': -1}": 496,
+            "{'attacker': -2, 'defender': 0}": 688
+        },
+        "total": 1525
+    },
+    "attacker_3_defender_1": {
+        "battles": {
+            "{'attacker': 0, 'defender': -1}": 1047,
+            "{'attacker': -1, 'defender': 0}": 496
+        },
+        "total": 1543
+    },
+    "attacker_2_defender_1": {
+        "battles": {
+            "{'attacker': 0, 'defender': -1}": 905,
+            "{'attacker': -1, 'defender': 0}": 624
+        },
+        "total": 1529
+    },
+    "attacker_2_defender_3": {
+        "battles": {
+            "{'attacker': -2, 'defender': 0}": 968,
+            "{'attacker': 0, 'defender': -2}": 192,
+            "{'attacker': -1, 'defender': -1}": 371
+        },
+        "total": 1531
+    }
+}
