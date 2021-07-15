@@ -236,3 +236,4 @@ if __name__ == '__main__':
     print("------------------------------------------------------")
     print("")
     print("Approximate win rate for an attacker rolling with three dice against a defender rolling with two:")
+    print(calc.win_rates("attacker_3_defender_2"))
