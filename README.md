@@ -1,6 +1,5 @@
 # Risk Dice Roll Chances
-This is a program I wrote from scratch to estimate the average win rate percentages for dice-rolling battles in the board game Risk.
-
+This is a program I wrote from scratch to estimate the average win rate percentages for dice-rolling battles in the board game Risk, via *Monte Carlo* methods.
 ---
 
 Below, I have used Excel to help visualize the results that I found. These results are approximate and were each built using about 1500 "battles."
